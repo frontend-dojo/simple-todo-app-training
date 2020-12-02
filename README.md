@@ -1,2 +1,2 @@
-# simple-todo-app-training
+# simple-todo-app-complete
 Created with CodeSandbox
